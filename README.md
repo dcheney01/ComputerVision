@@ -1,4 +1,5 @@
 # Computer Vision
+<<<<<<< HEAD
 
 A collection of computer vision projects completed for CS 455 - Computer Vision at BYU. These projects demonstrate fundamental and advanced computer vision techniques through practical implementations.
 
@@ -33,3 +34,6 @@ Complete QR code detection and decoding system from scratch.
 - Interactive tool development
 - Computer vision algorithm implementation
 - Real-time image processing 
+=======
+Projects done for a computer science Computer Vision course offered at BYU. 
+>>>>>>> d622de6f159ed452173ac9450c09e3164e62d55e
